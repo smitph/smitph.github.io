@@ -6,3 +6,4 @@ Hier ist die Beschreibung des Charakters. Er ist so toll wie sein Titel und gena
 * stark
 * liebt viel
 * erfreut sich an allem
+
