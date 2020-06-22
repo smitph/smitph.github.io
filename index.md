@@ -9,4 +9,4 @@ Hier ist die Beschreibung des Charakters. Er ist so toll wie sein Titel und gena
 
 Sein bester Satz ist unvergessen.
 >So, so ...
->so sei es!
+>so sei es!!
