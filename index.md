@@ -7,4 +7,8 @@ Hier ist die Beschreibung des Charakters. Er ist so toll wie sein Titel und gena
 * liebt viel
 * erfreut sich an allem
 
+Sein bester Satz ist unvergessen.
+>So, so ...
+>so sei es!!
+
 <img src="https://en.wikipedia.org/wiki/Where%27s_Wally%3F#/media/File:MartinHandfordWally&Friends.PNG" />
